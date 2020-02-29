@@ -1,8 +1,8 @@
-package main
+package conditional_statements
 
 import "fmt"
 
-func main() {
+func PrintStatementIfNeeded() {
 	var a = 10
 	var b = 20
 
